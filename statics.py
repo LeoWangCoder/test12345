@@ -9,4 +9,5 @@ total['2'] = total['total']
 total['total'] = total['total'].map(lambda x: x / 10)
 print(total)
 print(total)
+print(total)
 
